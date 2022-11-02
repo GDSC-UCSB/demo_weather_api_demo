@@ -8,7 +8,7 @@ function App() {
   const [location, setLocation] = useState('');
 
   //api built-in request by city name
-  const url = `https://api.openweathermap.org/data/2.5/weather?q=${location}&units=imperial&appid=INSERT_API_ID_HERE`;
+  const url = `https://api.openweathermap.org/data/2.5/weather?q=${location}&units=imperial&appid=INSERT YOUR OWN KEY HERE`;
   
   //gets url and communicates with API to grab data
   const searchLocation = (event) => {

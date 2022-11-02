@@ -4,6 +4,8 @@
 
 Make sure to run ^^ this before building your app
 
+### [LINK TO OPEN WEATHER](https://openweathermap.org/) to get your own api id/key
+
 ### `npm start`
 
 Runs the app in the development mode.\
